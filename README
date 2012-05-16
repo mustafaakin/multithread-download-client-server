@@ -1,1 +1,6 @@
+Multithreaded file downloading, both client and server.
+
+./fileserver PORT
+./fileclient IP PORT
+
 Mustafa AKIN, 20900755
